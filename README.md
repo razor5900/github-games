@@ -3,6 +3,7 @@
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: http://razor5900.github.io/github-games/
+- fixed -
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
